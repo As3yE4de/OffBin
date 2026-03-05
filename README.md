@@ -10,3 +10,7 @@ All are pre-compiled and require no additional installation.
 *Main Objective:* This tool is convenient for splitting a large file into smaller fragments.
 
 ---
+# P/S
+I created these tools for my own learning purposes. If you find them useful or have any suggestions, please feel free to send me 
+a PM via thanhphat9284@gmail.com. Your feedbacks will enrich my knowledge. 
+Thank you very much!
